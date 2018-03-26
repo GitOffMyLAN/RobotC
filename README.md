@@ -2,6 +2,8 @@
 This my NXT robot assigment.
 
 All motors on on ports A and B
+
+Light (refected) on port 1 and sonar on port 2
 ## Movment
 automated-movment is code that needs a light sensor on port 1 and follows a black line.
 ## Sumo
