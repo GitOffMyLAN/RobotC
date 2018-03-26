@@ -5,8 +5,8 @@
 task main()
 {
 	while(true){
-		if(light > 40){
-			motor[motorA] = 100;
+		if(light > 40 /*Black*/){
+			motor[motorA] = 100; /*Turn*/
 			wait1Msec(400);
 		}
 		motor[motorA] = -100;
