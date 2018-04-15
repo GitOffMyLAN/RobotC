@@ -11,5 +11,5 @@ a robot that uses light (on port 1) and sonar (on port 2) and follows and attack
 
 
 ## Evaluations
-[Jack's](https://github.com/GitOffMyLAN/RobotC/blob/master/jack's%20evaluation.md)
-[Andrie's](https://github.com/GitOffMyLAN/RobotC/blob/master/andries%20evaluation.md)
+* [Jack's](https://github.com/GitOffMyLAN/RobotC/blob/master/jack's%20evaluation.md)
+* [Andrie's](https://github.com/GitOffMyLAN/RobotC/blob/master/andries%20evaluation.md)
