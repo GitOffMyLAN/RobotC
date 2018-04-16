@@ -7,11 +7,17 @@
 task main()
 {
 	while(true){
-		if(light > 40 /*Black*/){
+		while(light < 40 /*Black*/){
 			motor[motorA] = 100; /*Turn*/
 			wait1Msec(400);
 		}
 		motor[motorA] = -100;
 		motor[motorB] = -100;
+		if(sonar > 30){
+			stopMotor[motorA]
+			stopMotor[motorB]
+			motor[motorA] = -100;
+			motor[motorB] = -100;
+		}
 	}
 }
