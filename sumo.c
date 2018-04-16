@@ -19,5 +19,17 @@ task main()
 			motor[motorA] = -100;
 			motor[motorB] = -100;
 		}
+		else{
+			nMotorEncoder[motorA] = 0;
+			nMotorEncoder[motorB] = 0;
+			if (nMotorEncoder[motorA] < 1800){
+			motor[motorB] = -15;
+			motor[motorA] = 0;
+		}
+		ifelse (nMotorEncoder[motorB] < 1800) 
+		{
+			motor[motorB] = 0;
+			motor[motorA] = -15;
+		}
 	}
 }
