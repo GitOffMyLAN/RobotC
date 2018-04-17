@@ -24,6 +24,13 @@ In the beginging I was controling and was not thinking of my parnert which meant
 #### Part 1
 #### Part 2
 #### Conslusion
+### Andries's Evaluation
+
+#### Working
+#### Design
+#### Part 1
+#### Part 2
+#### Conslusion
 
 ### Images
 ![Images](https://github.com/GitOffMyLAN/RobotC/blob/master/img/IMG_0126.JPG)
