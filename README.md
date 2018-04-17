@@ -7,24 +7,23 @@ Light (refected) on port 1 and sonar on port 2
 
 
 ## Movment
-automated-movment is code that needs a light sensor on port 1 and follows a black line.
+automated-movment is code that needs a light sensor on port 1 and follows a black line by going back and forth.
 
 [video](https://github.com/GitOffMyLAN/RobotC/blob/master/movment.mp4)
 ## Sumo
-a robot that uses light (on port 1) and sonar (on port 2) and follows and attacks robots using sonar.
+a robot that uses light (on port 1) and sonar (on port 2) and follows and attacks robots using sonar, when the sonar picks up a robot it will charge the robot.
 
 [video](https://github.com/GitOffMyLAN/RobotC/blob/master/sumo.mp4)
 
 ## Evaluations
 ### Jack's Evaluation
-
 #### Strengest and weakness's
 #### Design
 #### Part 1
 #### Part 2
 #### Conslusion
-### Andries's Evaluation
 
+### Andries's Evaluation
 #### Strengest and weakness's
 #### Design
 #### Part 1
