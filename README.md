@@ -20,3 +20,4 @@ a robot that uses light (on port 1) and sonar (on port 2) and follows and attack
 * [Andrie's](https://github.com/GitOffMyLAN/RobotC/blob/master/andries%20evaluation.md)
 
 ### Images
+![Images](https://github.com/GitOffMyLAN/RobotC/blob/master/img/IMG_0126.JPG)
