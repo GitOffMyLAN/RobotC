@@ -21,3 +21,8 @@ a robot that uses light (on port 1) and sonar (on port 2) and follows and attack
 
 ### Images
 ![Images](https://github.com/GitOffMyLAN/RobotC/blob/master/img/IMG_0126.JPG)
+![Images](https://github.com/GitOffMyLAN/RobotC/blob/master/img/IMG_0127.JPG)
+![Images](https://github.com/GitOffMyLAN/RobotC/blob/master/img/IMG_0128.JPG)
+![Images](https://github.com/GitOffMyLAN/RobotC/blob/master/img/IMG_0129.JPG)
+![Images](https://github.com/GitOffMyLAN/RobotC/blob/master/img/IMG_0130.JPG)
+![Images](https://github.com/GitOffMyLAN/RobotC/blob/master/img/IMG_0131.JPG)
