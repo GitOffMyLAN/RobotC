@@ -7,7 +7,7 @@
 task main()
 {
 	while(true){
-		while(light < 40 /*Black*/){
+		while(light < 50 /*White*/){
 			motor[motorA] = 100; /*Turn*/
 			wait1Msec(400);
 		}
