@@ -84,7 +84,7 @@ task main()
 #### Design
 #### Part 1
 #### Part 2
-We started working on part 2 first becuase it was the easier task. Our first disgn had the basic code of stay on black and if it detects white it turns till it detects black. The problems with this is that it turns in one direction till it sees black; do it would wrap around.
+We started working on part 2 first becuase it was the easier task. Our first disgn had the basic code of stay on black and if it detects white it turns till it detects black. The problems with this is that it turns in one direction till it sees black; do it would wrap around and go backwards on the line it just traced. So, we changed the code so when it's on the black it turns left, and when on white it turns right. This code worked and it worked becuase it would always go up and down around the edge of the line, so even when the line turns it will still follow the edge.
 #### Conslusion
 
 ### Andries's Evaluation
