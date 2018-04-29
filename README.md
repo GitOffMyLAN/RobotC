@@ -23,7 +23,7 @@ a robot that uses light (on port 1) and sonar (on port 2) and follows and attack
 #### Design
 #### Part 1
 #### Part 2
-We started working on part 2 first becuase it was the easier task.
+We started working on part 2 first becuase it was the easier task. Our first disgn had the basic code of stay on black and if it detects white it turns till it detects black. The problems with this is that it turns in one direction till it sees black; do it would wrap around.
 #### Conslusion
 
 ### Andries's Evaluation
