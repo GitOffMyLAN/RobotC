@@ -82,23 +82,23 @@ task main()
 ```
 ## Evaluations
 ### Jack's Evaluation
-#### Strengest and weakness
-#### Conslusion
+#### What worked well/was successful? 
+#### What challenges did you encounter?  
+#### How would you approach it differently if given the opportunity?
+#### What has this task taught you about programming/Robotics?
 
 ### Andries's Evaluation
-#### Strengest and weakness's
-What worked well/was successful? 
+#### What worked well/was successful? 
 We were successful in coding as it was our main strengths. At the end of the task we work like a team.  
-What challenges did you encounter?  
+#### What challenges did you encounter?  
 We did well at coding the robot but had some difficulties such as sonar sensor and dirty carpet and the lighting of the sealing. WE also had some default in the design of the robot as it was hard for the light sensor to work (function properly, the senor sensor did not work for some reason which might be a bug or the code. 
-How would you approach it differently if given the opportunity?
+#### How would you approach it differently if given the opportunity?
 Less time building on the robot would improve our code. 
 Coding it more sufficient will allow to work better. 
-What has this task taught you about programming/Robotics?
+#### What has this task taught you about programming/Robotics?
 It has taught me to code in a different way. (while true) 
 This task also taught me resilience and confidence
 These skills are vital to reach a higher mark in my next assessment.  
-#### Conslusion
 
 ### Images
 ![Images](https://github.com/GitOffMyLAN/RobotC/blob/master/img/IMG_0126.JPG)
