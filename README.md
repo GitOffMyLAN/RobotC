@@ -83,9 +83,13 @@ task main()
 ## Evaluations
 ### Jack's Evaluation
 #### What worked well/was successful? 
-#### What challenges did you encounter?  
+We did not work will in the begining; but we then started to work better in a team. Then we designed our robots and they worked. Our main success was with the code. Our coding helped this a lot and was very invative.
+#### What challenges did you encounter?
+Our challenges were not working at a team in the begining; this stopped our progress in the beging but when we started working it was great. Out other problems were with the sensors and that most of the time the conditions changed (ambient light would mess with the light sensor) and the sonor sensor just failed. We also wasted about 1/3 of our time with making the robot and more time fixing the bugs and problems with the robot.
 #### How would you approach it differently if given the opportunity?
+We could of fixed the light problem with a constant varible that ditected the light and black at set the vaibles acordingly. But I think that could of fixed the light; and the sonsor we could of read more of the documentation to fix the problems. The main thing we need to fixed we not wasting time designing and working better as a team.
 #### What has this task taught you about programming/Robotics?
+We mainly learned how with robots (and the outside world) change and how our code needs to be felxable and not setting dirct numbers but varibles that change with the outside world.
 
 ### Andries's Evaluation
 #### What worked well/was successful? 
