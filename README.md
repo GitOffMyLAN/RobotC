@@ -37,11 +37,11 @@ task main()
 	motor[motorB] = 0;
 }
 ```
-[video](https://github.com/GitOffMyLAN/RobotC/blob/master/movment.mp4)
+[video](https://github.com/GitOffMyLAN/RobotC/blob/master/vdo/movment.mpg)
 ## Sumo
 a robot that uses light (on port 1) and sonar (on port 2) and follows and attacks robots using sonar, when the sonar picks up a robot it will charge the robot.
 
-[video](https://github.com/GitOffMyLAN/RobotC/blob/master/sumo.mp4)
+[video](https://github.com/GitOffMyLAN/RobotC/blob/master/vdo/sumo.mp4)
 ### Sudo Code
 ![Image](https://github.com/GitOffMyLAN/RobotC/blob/master/img/sudo_code_movment.png)
 ### Code
@@ -82,6 +82,9 @@ task main()
 	}
 }
 ```
+#### Syntax
+In this code we see some of the C syntax with the RobotC mainly with the motor function that calls the amount of movment and roations that measures the roations for the light 
+
 ## Evaluations
 ### Jack's Evaluation
 #### What worked well/was successful? 
