@@ -38,6 +38,9 @@ task main()
 }
 ```
 [video](https://github.com/GitOffMyLAN/RobotC/blob/master/vdo/movment.mpg)
+### Syntax
+First with the C compiler (with the RobotC libaries) new lines charters (/n or enter) don't count for new code; that's why we need to add the ';' to the end of the commands to add code, else the compiler thinks it another command. Also the C compiler is known for being very needed and does not like code that does not follow the proper code form (like html and javascript). Also because of the rule of semicollens that tabs (or /t) does not change the code but it does make it easier to read and understand so white space does not matter in the code like in python. But in the code we first set some vaibels to look for the senors (maily light) we then declear the wheels and there rotations; so that we can tell if we are just going in circles. We then have the light sensor see if there is blakc or white; it white turn left and if black turn right (so we follow the edge of the line) becuase most people follow the black line and avoid the blakc so they go in a circle. But our code follows the edge so we always stay on the line and also can change to any angle or curive in the track; thats the advantage of not making asumssions and making fexible code.	
+
 ## Sumo
 a robot that uses light (on port 1) and sonar (on port 2) and follows and attacks robots using sonar, when the sonar picks up a robot it will charge the robot.
 
@@ -74,7 +77,7 @@ task main()
 			motor[motorB] = -15;
 			motor[motorA] = 0;
 		}
-		ifelse (nMotorEncoder[motorB] < 1800) 
+		if (nMotorEncoder[motorB] < 1800) 
 		{
 			motor[motorB] = 0;
 			motor[motorA] = -15;
@@ -83,7 +86,7 @@ task main()
 }
 ```
 #### Syntax
-In this code we see some of the C syntax with the RobotC mainly with the motor function that calls the amount of movment and roations that measures the roations for the light 
+In this code we see some of the C syntax with the RobotC mainly with the motor function that calls the amount of movment and roations that measures the roations from the light and edge detection. We just tried to add sonor sensor and when its detects another object in 30cm it moves foward and tries to change the other robots. So this code is very simmilar to the light code (because we had to detect the edge of the arrena). We could of fixed the code with getting the light code and if it detects white it goes and finds the robot using the tracking code. But the sonor senor was buggy and did not like how we detected objects.
 
 ## Evaluations
 ### Jack's Evaluation
