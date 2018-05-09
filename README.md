@@ -46,7 +46,7 @@ a robot that uses light (on port 1) and sonar (on port 2) and follows and attack
 
 [video](https://github.com/GitOffMyLAN/RobotC/blob/master/vdo/sumo.mp4)
 ### Sudo Code
-![Image](https://github.com/GitOffMyLAN/RobotC/blob/master/img/sudo_code_movment.png)
+![Image](https://github.com/GitOffMyLAN/RobotC/blob/master/img/sudo_code_sumo.png)
 ### Code
 ```c
 #pragma config(Sensor, S1,     light,          sensorLightActive)
